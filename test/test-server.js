@@ -15,7 +15,7 @@ describe('GET /', function () {
         "status": 200,
         "events": [
           { title: 'an event', id: 1234, description: 'something really cool', location: 'Joes pizza', likes: 0 },
-          { title: 'another event', id: 5678, description: 'something even cooler', location: 'Johns pizza', likes: 0 }
+          { title: 'just another event', id: 5678, description: 'something even cooler', location: 'Johns pizza', likes: 0 }
         ]
       });
 
